@@ -6,6 +6,7 @@ export default class Bird {
         this.y = 160
     }
 
+    
 
 
 
